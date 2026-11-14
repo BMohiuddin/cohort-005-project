@@ -92,3 +92,13 @@ A Refund where the money couldn't be sent. The Refund Request stays approved, be
 **Watch Limit**:
 The amount of Watched time on a course past which a Student can no longer get a Refund, because they've had the course.
 _Avoid_: Watch cap, Viewing threshold
+
+### Notifications
+
+**Notification**:
+A message Cadence shows one person inside the app about something that happened that concerns them. Each person gets their own Notification, so when an event concerns every Platform Admin, each one gets a Notification they read on their own.
+_Avoid_: Alert, Message, Activity
+
+**Channel**:
+A way a Notification reaches its person. Every Notification appears in the in-app feed; some are also sent as a push to the person's browser.
+_Avoid_: Medium, Transport
